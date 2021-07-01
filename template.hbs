@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        * {
+            box-sizing: border-box;
+        }
+
+        *,
+        *::before,
+        *::after {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+<div style="display:flex;flex-wrap: wrap;; width: 100vw;height: 100vh;">
+    {{#each list}}
+        {{#if_eq tagType 1}}
+            <img alt=""
+                 style="display:block; width: calc(100vw / {{col}});height: calc(100vh / {{row}});object-fit: cover"
+                 src="{{url}}"/>
+        {{/if_eq}}
+        {{#if_eq tagType 2}}
+            <div style="display:block; width: calc(100vw / {{col}});height: calc(100vh / {{row}});background:url('{{url}}') no-repeat; background-size: cover;"></div>
+        {{/if_eq}}
+    {{/each}}
+</div>
+</body>
+</html>

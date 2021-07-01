@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "col": "1",
+      "row": "1",
+      "tagType": 1,
+      "suffix": "png"
+    },
+    {
+      "col": "1",
+      "row": "1",
+      "tagType": 1,
+      "suffix": "jpg"
+    },
+    {
+      "col": "1",
+      "row": "1",
+      "tagType": 1,
+      "suffix": "webp"
+    },
+    {
+      "col": "2",
+      "row": "1",
+      "tagType": 1,
+      "suffix": "png"
+    },
+    {
+      "col": "2",
+      "row": "1",
+      "tagType": 1,
+      "suffix": "jpg"
+    },
+    {
+      "col": "2",
+      "row": "1",
+      "tagType": 1,
+      "suffix": "webp"
+    },
+    {
+      "col": "3",
+      "row": "1",
+      "tagType": 1,
+      "suffix": "png"
+    },
+    {
+      "col": "3",
+      "row": "1",
+      "tagType": 1,
+      "suffix": "jpg"
+    },
+    {
+      "col": "3",
+      "row": "1",
+      "tagType": 1,
+      "suffix": "webp"
+    },
+    {
+      "col": "4",
+      "row": "1",
+      "tagType": 1,
+      "suffix": "png"
+    },
+    {
+      "col": "4",
+      "row": "1",
+      "tagType": 1,
+      "suffix": "jpg"
+    },
+    {
+      "col": "4",
+      "row": "1",
+      "tagType": 1,
+      "suffix": "webp"
+    },
+    {
+      "col": "2",
+      "row": "2",
+      "tagType": 1,
+      "suffix": "png"
+    },
+    {
+      "col": "2",
+      "row": "2",
+      "tagType": 1,
+      "suffix": "jpg"
+    },
+    {
+      "col": "2",
+      "row": "2",
+      "tagType": 1,
+      "suffix": "webp"
+    },
+    {
+      "col": "3",
+      "row": "3",
+      "tagType": 1,
+      "suffix": "png"
+    },
+    {
+      "col": "3",
+      "row": "3",
+      "tagType": 1,
+      "suffix": "jpg"
+    },
+    {
+      "col": "3",
+      "row": "3",
+      "tagType": 1,
+      "suffix": "webp"
+    },
+    {
+      "col": "4",
+      "row": "4",
+      "tagType": 1,
+      "suffix": "png"
+    },
+    {
+      "col": "4",
+      "row": "4",
+      "tagType": 1,
+      "suffix": "jpg"
+    },
+    {
+      "col": "4",
+      "row": "4",
+      "tagType": 1,
+      "suffix": "webp"
+    }
+  ]
+}
